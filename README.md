@@ -23,19 +23,3 @@ A collection of hands-on Machine Learning practicals implemented in Python. This
 * **Machine Learning & Statistics:** `Scikit-Learn`, `SciPy`
 * **Data Visualization:** `Matplotlib`, `Seaborn`
 
-## 📂 Repository Structure
-
-```text
-introduction-to-machine-learning/
-├── Practical_1_Linear_and_Polynomial_Regression.ipynb
-├── Practical_2_Logistic_Regression.ipynb
-├── Practical_3_Model_Evaluation_and_Metrics.ipynb
-├── Practical_4_KNN_Classification.ipynb
-├── Practical_5_Decision_Tree_Classifier.ipynb
-├── Practical_6_Email_Spam_Detection_SVM.ipynb
-├── Practical_7_Sentiment_Analysis_Naive_Bayes.ipynb
-├── Practical_8_Customer_Clustering_KMeans.py
-├── datasets/
-│   ├── customerchurn.csv
-│   └── spam.csv
-└── README.md
